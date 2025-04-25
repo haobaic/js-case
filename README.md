@@ -1,27 +1,25 @@
-﻿
+# 一些自己写的原生js案例
 
-## 一些自己写的原生js案例
+### <a href='./video'>video 自定义播放器</a>
 
-### video 自定义播放器
+### <a href='./预定电影票'>预定电影票</a>
 
-### 预定电影票
+### <a href='./form'>form是form表单案例</a>
 
-### form是form表单案例
+### <a href='./exchange'>exchange是汇率转换案例</a>
 
-### exchange是汇率转换案例
+### <a href='./DOM'>一个普遍DOM示例</a>
 
-### 一个普遍DOM示例
+### <a href='./modal_menu_slider'>modal_menu_slider页面抽屉</a>
 
-### modal_menu_slider页面抽屉
+### <a href='./ScrollLoad'>ScrollLoad滚动加载</a>
 
-### ScrollLoad滚动加载
+### <a href='./relaxer-app'>relaxer-app 动画和定时器</a>
 
-### relaxer-app 动画和定时器
+### <a href='./新年倒计时'>新年倒计时</a>
 
-### 新年倒计时
+### <a href='./music-player'>music-player 歌曲播放器</a>
 
-### music-player 歌曲播放器
+### <a href='./lyrics-search'>lyrics-search 歌词搜索</a>
 
-### lyrics-search 歌词搜索
-
-### mouse 从不同方向使鼠标指针移过下面的内容
+### <a href='./mouse'>mouse 从不同方向使鼠标指针移过下面的内容</a>
